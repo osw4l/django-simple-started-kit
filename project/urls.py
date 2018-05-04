@@ -28,7 +28,7 @@ urlpatterns = [
     url(r'^chaining/', include('smart_selects.urls')),
     # rest auth
     url(r'^rest-auth/', include('rest_auth.urls')),
-    url(r'^rest-auth/registration/', include('rest_auth.registration.urls'))
+    url(r'^rest-auth/registration/', include('rest_auth.registration.urls')),
     # fcm
     url(r'^fcm/', include('apps.fcm.urls')),
     # api
