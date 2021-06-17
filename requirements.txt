@@ -60,7 +60,7 @@ txaio==2.8.0
 Unidecode==0.4.21
 urllib3==1.21.1
 uWSGI==2.0.15
-wagtail==1.10
+wagtail==2.11.8
 wagtailgeowidget==3.1.4
 webencodings==0.5.1
 websocket-client==0.44.0
